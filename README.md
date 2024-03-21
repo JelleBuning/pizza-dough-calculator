@@ -18,25 +18,26 @@ Before you begin, ensure you have the following installed on your system:
 2. Git: You'll need Git to clone the the app repository. You can download and install Git from here.
 ### Installation:
 Follow these steps to install DoughPro:
-**1. Clone the Repository:**
+
+1. **Clone the Repository:**
 ```
 https://github.com/JelleBuning/pizza-dough-calculator.git
 ```
-**2. Navigate to the Project Directory:**
+2. **Navigate to the Project Directory:**
 ```
 cd pizza-dough-calculator
 ```
-**3. Get Dependencies:**
+3. **Get Dependencies:**
 ```
 flutter pub get
 ```
 
 ### Building the app:
-**1. Debug the app:**
+1. **Debug the app:**
 ```
 flutter run
 ```
-**2. Create APK:**
+2. **Create APK:**
 ```
 flutter build apk --release
 ```
