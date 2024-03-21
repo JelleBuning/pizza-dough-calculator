@@ -15,6 +15,9 @@ To get started with the app, simply clone the repository and follow the setup in
 ### Prerequisites:
 Before you begin, ensure you have the following installed on your system:
 ### Installation:
+Follow these steps to install DoughPro:
+`git clone https://github.com/your-username/doughpro.git`
+
 
 1. Flutter SDK: Make sure you have Flutter installed on your machine. If not, you can follow the official Flutter installation instructions here.
 2. Git: You'll need Git to clone the the app repository. You can download and install Git from here.
